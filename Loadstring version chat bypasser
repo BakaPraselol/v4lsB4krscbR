@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BakaPraselol/MAIN-CHAT-BYPASSER/main/Main%20V4%20B4KRS%20CHAT%20BYPASSER"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BakaPraselol/bypass/main/bypass"))()
